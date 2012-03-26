@@ -12,6 +12,7 @@
 
 	<modules>
 		<module>WICKET-4475</module>
+		<module>WICKET-4476</module>
 	</modules>
 
 </project>
